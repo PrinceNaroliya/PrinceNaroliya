@@ -54,5 +54,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrinceNaroliya&label=Visitors&color=0e75b6&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/PrinceNaroliya?label=Followers&style=flat-square" alt="followers"/>
+</p>
   <img src="https://img.shields.io/github/stars/PrinceNaroliya?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="stars"/>
 </p>
