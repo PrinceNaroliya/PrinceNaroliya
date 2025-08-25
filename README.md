@@ -1,30 +1,58 @@
 <p align='center'>
   <img class="logo" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width='500'>
 </p>
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Prince Naroliya</h1>
-<h3 align="center">Tech enthusiast learning Python, AI, and Machine Learning by building projects.</h3>
+<h3 align="center">🚀 Open Source Contributor | 💻 Python Developer | 📚 Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princenaroliya&label=Profile%20views&color=0e75b6&style=flat" alt="princenaroliya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princenaroliya" alt="princenaroliya" /></a> </p>
-
-- 🌱 I’m currently learning **Python, API Handling, Flask, Git, Github**
-
-- 📫 How to reach me **naroliyaprince@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/prince-naroliya-ab4153313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prince-naroliya-ab4153313" height="50" width="50" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Python+|+Machine+Learning+|+Web+Developer;Always+learning+new+things!&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princenaroliya&show_icons=true&locale=en&layout=compact" alt="princenaroliya" /></p>
+## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **DSA & Open Source Contribution**
+- 👯 I’m looking to collaborate on **Python / Web Dev projects**
+- 💬 Ask me about **Python, Git/GitHub**
+- ⚡ Fun fact: *I love solving problems and exploring new tech!*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princenaroliya&show_icons=true&locale=en" alt="princenaroliya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princenaroliya&" alt="princenaroliya" /></p>
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux" />
+</p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceNaroliya&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceNaroliya&theme=tokyonight" alt="streak"/>
+</p>
 
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/PrinceNaroliya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+## ✨ Quote
+<p align="center"><i>"Code. Contribute. Collaborate."</i></p>
+
+---
+
+## 👀 Profile Insights  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrinceNaroliya&label=Visitors&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/PrinceNaroliya?label=Followers&style=flat-square" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/PrinceNaroliya?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="stars"/>
+</p>
