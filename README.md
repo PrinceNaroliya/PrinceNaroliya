@@ -24,7 +24,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,git,github,vscode,linux,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,git,github,vscode,linux,sklearn" />
 </p>
 
 ---
