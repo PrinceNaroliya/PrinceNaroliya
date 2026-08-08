@@ -24,7 +24,14 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,git,github,vscode,linux,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux,sklearn,langchain,langgraph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖%20Agentic%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20Generative%20AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔗%20LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20LangGraph-000000?style=for-the-badge" />
 </p>
 
 ---
